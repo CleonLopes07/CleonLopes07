@@ -1,26 +1,23 @@
 # 👋 Hi, I'm Cleon Lopes  
-🎓 Aspiring Business & Financial Analyst | 📊 Data Storyteller | 💼 Future Consultant
+🎓 Aspiring Business Analyst | 📊 Data Storyteller | 💼 Future Consultant
 
 ---
 
 I'm a Computer Engineering student from Mumbai with a passion for solving real-world problems through data-driven strategies.  
-My interests lie in Business Analytics, Financial Analytics, and Strategic Decision-Making — backed by hands-on projects, research, and leadership experience.
+My interests lie in Business Analytics and Strategic Decision-Making — backed by hands-on projects, research, and leadership experience.
 
 ---
 
 ## 🔍 What I’m Working On
-- Preparing for a Master's in Business/Data/Financial Analytics (Fall 2026 – UK 🇬🇧)
+- Preparing for a Master's in Business Analytics (Fall 2026 – UK 🇬🇧)
 - Strengthening skills in Forecasting, Time Series, and Optimization
 - Learning advanced Excel + Financial Modeling & Strategic Analytics
 
 ---
 
 ## 📂 My Projects
-Explore my dashboards and machine learning projects on:
-- GitHub: [cleonlopes](https://github.com/cleonlopes?tab=repositories)  
-- Tableau Public: [Link to your Tableau profile]  
-- Power BI Public: [Link to Power BI dashboards]  
-- Notable Projects: Spotify Recommendation, BlinkIt Retail Analytics, EV Dashboard, Credit Risk Modeling, Food Product Health Classifier
+Explore my projects on my Repo: [cleonlopes07](https://github.com/CleonLopes07?tab=repositories)    
+- Notable Projects: Spotify Recommendation, Netflix analysis in SQL, EV Dashboard, Customer-Churn-Analysis, Credit Risk Modeling, Food Product Health Classifier
 
 ---
 
@@ -34,7 +31,6 @@ Explore my dashboards and machine learning projects on:
 ## 📫 Contact Me
 - ✉️ Email: cleonlopes7@gmail.com  
 - 🔗 LinkedIn: [linkedin.com/in/cleonlopes](https://linkedin.com/in/cleonlopes)  
-- 📄 Resume: [Link to Google Drive resume]  
 
 ---
 
@@ -45,8 +41,7 @@ Explore my dashboards and machine learning projects on:
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)  
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)  
 ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)  
-![Google Colab](https://img.shields.io/badge/-Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) 
 
 ---
 
