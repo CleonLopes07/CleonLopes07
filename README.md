@@ -29,8 +29,8 @@ Explore my projects on my Repo: [cleonlopes07](https://github.com/CleonLopes07?t
 ---
 
 ## 📫 Contact Me
-- ✉️ Email: cleonlopes7@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/cleonlopes](https://linkedin.com/in/cleonlopes)  
+- ✉️ Email: cleonlopes07@gmail.com  
+- 🔗 LinkedIn: [cleonlopes](https://linkedin.com/in/cleonlopes)  
 
 ---
 
