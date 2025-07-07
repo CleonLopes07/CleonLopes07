@@ -16,7 +16,7 @@ My interests lie in Business Analytics and Strategic Decision-Making — backed 
 ---
 
 ## 📂 My Projects
-Explore my projects on my Repo: [cleonlopes07](https://github.com/CleonLopes07?tab=repositories)    
+Explore my projects on my Repository: [cleonlopes07](https://github.com/CleonLopes07?tab=repositories)    
 - Notable Projects: Spotify Recommendation, Netflix analysis in SQL, EV Dashboard, Customer-Churn-Analysis, Credit Risk Modeling, Food Product Health Classifier
 
 ---
