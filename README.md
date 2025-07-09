@@ -10,8 +10,8 @@ My interests lie in Business Analytics and Strategic Decision-Making — backed 
 
 ## 🔍 What I’m Working On
 - Preparing for a Master's in Business Analytics (Fall 2026 – UK 🇬🇧)
-- Strengthening skills in Forecasting, Time Series, and Optimization
-- Learning advanced Excel + Financial Modeling & Strategic Analytics
+- Strengthening skills in Analytics and Management
+- Learning and exploring Management using Analytics 
 
 ---
 
